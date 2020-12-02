@@ -200,4 +200,4 @@ Sebelum saya menjalankan fitur ini, saya akan menambahkan 1 data lagi dengan nam
 
 * Dan terakhir adalah Hasil Dari Flowchart 
 
-![flowchart](gambar/flowchart.png)
+![flowchart](isi%20foto/flowchart.png)
