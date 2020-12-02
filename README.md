@@ -53,7 +53,7 @@ print("   Hasil : lambda s: "".join(set(s)))")
 Disini saya sudah rubah ke lambda Kalau di Tugas Latihan tidak ada outputnya, tp disini saya akan berikan contoh untuk output dari source code tersebut
 Berikut outputnya
 
-![hasil](gambar/hasillatihan.png)
+![hasil](isi%20foto/hasil%20latihan.png)
  * Dalam Hasil INPUTAN Diatas Ialah hasil dari proses lambda
  
  ## Tugas Praktikum
