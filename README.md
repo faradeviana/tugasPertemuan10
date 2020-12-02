@@ -179,11 +179,11 @@ Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
 * Lihat Data Nilai Mahasiswa<br>
 System akan menjalankan fitur ini ketika user mengetikkan perintah 2 pada pilihan Pilih Menu (1-2-3-4-5)
 Inilah tampilan fitur Lihat Data :
-![hasil](gambar/lihatdata.PNG)
+![hasil](isi%20foto/tambah%20data%20.png)
 
 * Menambahkan Data <br>
 
-![hasil](gambar/tambahdata.png)
+![hasil](isi%20foto/tambah%20data%20.png)
 
 * ubah data <br> 
 Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah
