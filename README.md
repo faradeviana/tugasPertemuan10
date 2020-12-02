@@ -194,7 +194,7 @@ Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan
 System akan menjalankan fitur ini ketika user mengetikkan perintah 4 pada pilihan Pilih Menu (1-2-3-4-5)
 Sebelum saya menjalankan fitur ini, saya akan menambahkan 1 data lagi dengan nama herli
 
-![hasil](gambar/hapusdata.png)
+![hasil](isi%20foto/hapus%20data.png)
 
 ## FLOWCHART
 
