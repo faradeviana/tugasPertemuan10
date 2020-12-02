@@ -7,7 +7,7 @@
 ## Latihan
 # Untuk latihan kali ini merubah dari fungsi ke lambda Ada 4 fungsi yang harus dirubah ke lambda
 Perhatikan Soal Berikut
-![Soal](gambar/soallatihan.PNG)
+![Soal](isi%20foto/soal%20latihan.png)
 
 dan ini hasil dari source code diatas 
 ```python
