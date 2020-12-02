@@ -59,7 +59,7 @@ Berikut outputnya
  ## Tugas Praktikum
  * Selain tugas latihan yang diberikan oleh dosen, saya juga diberi tugas praktikum oleh Dosen. Yaitu membuat progam sederhana menggunakan fungsi. Yang menampilkan Data Mahasiswa.  
 
- ![hasil](gambar/soalpraktikum.PNG)
+ ![hasil](isi%20foto/Soal%20praktikum.png)
  
 * Seperti biasa, setelah saya membaca serta memahami materi yang berikan oleh dosen dan mencari referensi tambahan dari Internet, akhirnya saya bisa mengerjakan tugas pertemuan 10 (Tugas Praktikum).
 
