@@ -166,7 +166,7 @@ while True:
 Saya akan menjelaskan dikit mengenai fitur-fitur yang ada dalam program sederhana saya.
 Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
 
-![hasil](gambar/hasilmenu.png)
+![hasil](isi%20foto/hasil%20menu.png)
    
     Terdapat 5 Pilihan menu, yaitu :
 
