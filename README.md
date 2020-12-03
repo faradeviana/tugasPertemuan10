@@ -2,7 +2,7 @@
 ## Tugas Melengkapi Pertemuan 10
 | Nama | kelas | Nim | Matkul |
 | -- | --- | ---- | ----------- |
-| HERLIYANSYAH | TI.20.A.2 | 312010387 | Bahasa Pemrograman |
+| FARA DEVIANA | TI.20.A.2 | 312010407 | Bahasa Pemrograman |
 
 ## Latihan
 # Untuk latihan kali ini merubah dari fungsi ke lambda Ada 4 fungsi yang harus dirubah ke lambda
@@ -11,7 +11,6 @@ Perhatikan Soal Berikut
 
 dan ini hasil dari source code diatas 
 ```python
-#SKUYS
 print("________________________________________")
 #mengubah function menggunakan lambda
 def a(x):
@@ -187,7 +186,7 @@ Inilah tampilan fitur Lihat Data :
 
 * ubah data <br> 
 Pada fitur ini user akan diminta untuk memilih data siapa yang akan diubah dan data apa yang akan dirubah
-Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan nama herli , Maka akan muncul tampilan seperti ini :
+Setelah user memilih data, Misalnya user ingin merubah NIM dari mahasiswa dengan nama fara , Maka akan muncul tampilan seperti ini :
 ![hasil](isi%20foto/ubah%20data.png)
 
 * Fitur Hapus Data Nilai Mahasiswa <br>
